@@ -12,3 +12,11 @@ public class RunCuckTest {
 
 }
 
+<<<<<<< HEAD
+=======
+
+//mayurAPI.feature push
+
+// dev branch first commit
+
+>>>>>>> 7e170c6158e4df573fa3da0ca20a4649fa620c87

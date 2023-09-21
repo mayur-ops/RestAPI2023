@@ -6,10 +6,9 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "")
+@CucumberOptions(features = "src/test/Resource/ListOfUsers.feature")
 
 public class RunCuckTest {
 
 }
 
-// dev branch first commit
